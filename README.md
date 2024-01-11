@@ -1,13 +1,14 @@
-<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<h1> Hello <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
 
-<p> My name is Mauro and I'm a javascript developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Paraná, Brasil</b>. </p>
+<p> My name is Akshat Panicker and I'm a python developer, from <img src="https://cdn-icons-png.flaticon.com/128/197/197386.png" width="17" /> <b>Ahmedabad, Gujarat</b>. </p>
 
 ## About me
 
-- ✨ Creating bugs since 2019
-- 📚 I'm currently learning english <img src="https://cdn-icons-png.flaticon.com/128/197/197484.png" width="17" />  and docker 🐳
-- 🎯 Goals: live in a cold place ❄ and speak english 🚀
-- 🎲 And ... i play 🎸 guitar and ♟ chess online
+- ✨ Creating bugs since 2020
+- 📚O would love to learn more languages and make collaborative projects
+- 🎯 Goals: travel the world 
+- 🎲 And ... i play  🎹 piano and I love to play Football⚽
+- 🧑‍💻 to interact contact me on my socials : @akshat_panickerrr on instagram
 
 ## I code with
 
